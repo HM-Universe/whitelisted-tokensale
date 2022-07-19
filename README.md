@@ -1,7 +1,5 @@
 <h3 align="center">Whitelisted ERC20 TokenSale Contracts (@whitelisted-tokensale)</h3><div align="center"></div>
 
-[@whitelisted-tokensale](https://github.com/galtproject/whitelisted-tokensale) is a set of Ethereum smart contracts for the sale of ERC20 tokens for others ERC20 tokens with specific rates. 
-
 Smart contracts have Administrators and Managers roles. These roles are designed to:
 - manage the whitelist of customers;
 - add and remove ERC20 tokens for which sale is carried out;
